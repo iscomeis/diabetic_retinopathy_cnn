@@ -8,7 +8,3 @@ With the advent of deep learning, the diagnosis of such diseases has shifted tow
 2. **Class 1 (Diabetic Retinopathy)**: Images indicating the presence of Diabetic Retinopathy.
 
 The dataset used for this project is from [Kaggle: Diabetic Retinopathy 224x224 Gaussian Filtered](https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-gaussian-filtered/data). It contains retinal images that have been **preprocessed** with Gaussian filters, resized to 224x224 pixels, and labeled for binary classification.
-
-<div style="text-align: center;">
-    <img src="https://www.researchgate.net/publication/282609747/figure/fig2/AS:281548759814145@1444137863086/Difference-between-Normal-Retina-and-Diabetic-Retinopathy.png" alt="Image">
-</div>
